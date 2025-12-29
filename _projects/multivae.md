@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <a href="https://github.com/clementchadebec/benchmark_VAE" target="_blank">Pythae</a>
+title: <a href="https://github.com/AgatheSenellart/MultiVae" target="_blank">MultiVae</a>
 img: assets/img/multivae_logog.png
 description: A library for multimodal VAEs on incomplete datasets
 redirect: https://multivae.readthedocs.io/en/latest/
