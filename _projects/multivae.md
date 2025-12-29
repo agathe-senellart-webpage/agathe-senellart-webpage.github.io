@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <a href="https://github.com/AgatheSenellart/MultiVae" target="_blank">MultiVae</a>
+title: MultiVae
 img: assets/img/multivae_logog.png
 description: A library for multimodal VAEs on incomplete datasets
 redirect: https://multivae.readthedocs.io/en/latest/
