@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-01-23'
 papers:
   zTH1JzcAAAAJ:2osOgNQ5qMEC:
     citations: 2
     title: 'MultiVae: A Python package for Multimodal Variational Autoencoders on Partial Datasets.'
     year: '2025'
   zTH1JzcAAAAJ:9yKSN-GCB0IC:
-    citations: 7
+    citations: 8
     title: Improving multimodal joint variational autoencoders through normalizing flows and correlation analysis
     year: '2023'
   zTH1JzcAAAAJ:IjCSPb-OGe4C:
