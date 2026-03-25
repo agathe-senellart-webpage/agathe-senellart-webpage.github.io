@@ -1,27 +1,35 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-25'
 papers:
   zTH1JzcAAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: 'MultiVae: A Python package for Multimodal Variational Autoencoders on Partial Datasets.'
     year: '2025'
   zTH1JzcAAAAJ:9yKSN-GCB0IC:
-    citations: 9
+    citations: 10
     title: Improving multimodal joint variational autoencoders through normalizing flows and correlation analysis
     year: '2023'
   zTH1JzcAAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: Mitigating the reconstruction-detection trade-off in VAE-based unsupervised anomaly detection
     year: '2025'
+  zTH1JzcAAAAJ:Tyk-4Ss8FVUC:
+    citations: 0
+    title: "Mitiger le compromis entre d\xE9tection et qualit\xE9 de reconstruction en d\xE9tection d'anomalies non-supervis\xE9e \xE0 partir de VAE"
+    year: '2026'
   zTH1JzcAAAAJ:UeHWp8X0CEIC:
     citations: 2
     title: 'Establishing Baselines for Photonic Quantum Machine Learning: Insights from an Open, Collaborative Initiative'
     year: '2025'
   zTH1JzcAAAAJ:d1gkVwhDpl0C:
-    citations: 1
+    citations: 2
     title: Bridging the inference gap in Mutimodal Variational Autoencoders
     year: '2025'
   zTH1JzcAAAAJ:qjMakFHDy7sC:
     citations: 1
     title: 'MultiVae: A Python library for Multimodal Generative Autoencoders'
     year: '2023'
+  zTH1JzcAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: Latent maximum-a-posteriori approach to improve pseudo-healthy reconstruction quality
+    year: '2026'
