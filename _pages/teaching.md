@@ -2,11 +2,18 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I gave during my PhD
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## 2022-2023
+- Tutorials: Applied Mathematics
+- Tutorials: MAA308: Image Analysis: Registration tutorials 
 
-Organize your courses by years, topics, or universities, however you like!
+## 2024-2025
+- Tutorials: Mathematics CUPGE L1 (Université Paris Cité)
+- Colles (oral training): mathematics (Université Paris Cité)
+
+## 2025-2026
+- Tutorials: Computational Statistics Master MVA
