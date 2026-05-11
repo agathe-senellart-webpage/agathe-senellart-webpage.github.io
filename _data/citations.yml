@@ -1,24 +1,24 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-05-11'
 papers:
   zTH1JzcAAAAJ:2osOgNQ5qMEC:
     citations: 3
     title: 'MultiVae: A Python package for Multimodal Variational Autoencoders on Partial Datasets.'
     year: '2025'
   zTH1JzcAAAAJ:9yKSN-GCB0IC:
-    citations: 10
+    citations: 12
     title: Improving multimodal joint variational autoencoders through normalizing flows and correlation analysis
     year: '2023'
   zTH1JzcAAAAJ:IjCSPb-OGe4C:
-    citations: 0
+    citations: 1
     title: Mitigating the reconstruction-detection trade-off in VAE-based unsupervised anomaly detection
-    year: '2025'
+    year: '2026'
   zTH1JzcAAAAJ:Tyk-4Ss8FVUC:
     citations: 0
     title: "Mitiger le compromis entre d\xE9tection et qualit\xE9 de reconstruction en d\xE9tection d'anomalies non-supervis\xE9e \xE0 partir de VAE"
     year: '2026'
   zTH1JzcAAAAJ:UeHWp8X0CEIC:
-    citations: 3
+    citations: 4
     title: 'Establishing Baselines for Photonic Quantum Machine Learning: Insights from an Open, Collaborative Initiative'
     year: '2025'
   zTH1JzcAAAAJ:d1gkVwhDpl0C:
