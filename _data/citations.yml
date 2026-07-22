@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-07-22'
 papers:
   zTH1JzcAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -18,7 +18,7 @@ papers:
     title: "Mitiger le compromis entre d\xE9tection et qualit\xE9 de reconstruction en d\xE9tection d'anomalies non-supervis\xE9e \xE0 partir de VAE"
     year: '2026'
   zTH1JzcAAAAJ:UeHWp8X0CEIC:
-    citations: 6
+    citations: 7
     title: 'Establishing Baselines for Photonic Quantum Machine Learning: Insights from an Open, Collaborative Initiative'
     year: '2025'
   zTH1JzcAAAAJ:d1gkVwhDpl0C:
