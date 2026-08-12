@@ -24,8 +24,8 @@ ninja.data = [{
             window.location.href = "/projects/";
           },
         },{id: "nav-teaching",
-          title: "teaching",
-          description: "Courses I gave during my PhD",
+          title: "Teaching",
+          description: "Courses I gave during my PhD.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
