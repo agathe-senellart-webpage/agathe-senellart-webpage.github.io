@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Courses I gave during my PhD
+title: Teaching
+description: Courses I gave during my PhD. 
 nav: true
 nav_order: 6
 ---

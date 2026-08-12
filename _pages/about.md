@@ -27,5 +27,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a PhD student under the supervision of Stéphanie Allassonnière in the [HeKA](https://heka.gitlabpages.inria.fr/) team located at PariSanté Campus. I work on Variational Autoencoders based methods with applications to medical imaging. During my PhD, I have worked on Multimodal VAEs methods, which led me to develop the python library [MultiVae](https://multivae.readthedocs.io/en/latest/). More recently I have been working on Unsupervised Anomaly Detection methods in brain images, in collaboration with the [Aramis](https://institutducerveau.org/node/434) team at the Paris Brain Institute.
-
+I am currently a PhD student under the supervision of Stéphanie Allassonnière in the [HeKA](https://heka.gitlabpages.inria.fr/) team located at PariSanté Campus. I work on variational autoencoders based methods with applications to medical imaging. During my PhD, I have worked on *multimodal* variational autoencoders methods, which led me to develop the open-source python library [MultiVae](https://multivae.readthedocs.io/en/latest/). More recently I have been working on unsupervised anomaly detection methods in brain images, in collaboration with the [Aramis](https://institutducerveau.org/node/434) team at the Paris Brain Institute.
+More generally, I am interested in designing sound and reliable machine learning methods for a positive societal impact. 
