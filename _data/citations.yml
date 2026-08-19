@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-22'
+  last_updated: '2026-08-19'
 papers:
   zTH1JzcAAAAJ:2osOgNQ5qMEC:
-    citations: 4
+    citations: 5
     title: 'MultiVae: A Python package for Multimodal Variational Autoencoders on Partial Datasets.'
     year: '2025'
   zTH1JzcAAAAJ:9yKSN-GCB0IC:
@@ -19,7 +19,7 @@ papers:
     year: '2026'
   zTH1JzcAAAAJ:UeHWp8X0CEIC:
     citations: 7
-    title: 'Establishing Baselines for Photonic Quantum Machine Learning: Insights from an Open, Collaborative Initiative'
+    title: 'Establishing baselines for photonic quantum machine learning: Insights from an open, collaborative initiative'
     year: '2025'
   zTH1JzcAAAAJ:d1gkVwhDpl0C:
     citations: 3
